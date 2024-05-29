@@ -1,3 +1,5 @@
+![ banner ](recipe-front-end/images/banner.jpg)
+
 # Portfolio project about making a website to use as my own recipe book
 
 **Goal functionality**
